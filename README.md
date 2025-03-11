@@ -1,42 +1,11 @@
-👋 Hello, world! I’m [Your Name]!
-
-
-
-🌱 Who am I?
-
-💻 Front-end enthusiast (Angular) & Java lover ☕
-
-🛡️ Cybersecurity explorer, curious about keeping the digital world safe
-
-🎨 Creative mind with a passion for clean and intuitive interfaces
-
-🚀 Always learning, always growing
-
-🛠️ Tech Stack:
-  
-
-📊 GitHub Stats:
-
-
-
-✨ What I’m working on:
-
-🏗️ Building web and mobile apps with Angular & Java
-
-🤖 Exploring AI and machine learning (hello CNNs!)
-
-📝 Writing detailed project reports and learning docs
-
-🌍 A bit more about me:
-
-🏐 Volleyball player
-
-🎶 Music lover
-
-✈️ Travel enthusiast
-
-📫 Let’s connect:
-  
-
-Thanks for stopping by! 🚀 
-
+<div class="my-4">
+    <div class="card-row">
+        <div class="card-1 card">
+            <h2>HI !</h2>
+            <span>JOELISON Joanna Voninjohary 👋</span>
+        </div>
+        <div class="card-2 card">
+            <img src = "https://github.com/user-attachments/assets/f16950a4-b218-4202-a778-4d98a36a6551" alt="avatar-Joanna" class="avatar">
+        </div>
+    </div>
+</div>
