@@ -1,11 +1,11 @@
-# 👋 Salut, je suis Joanna Joelison
+# 👋 Hello, 
 
 💻 **Développeuse passionnée** | 🌐 **Full-Stack & Cybersécurité** | 🎨 **Créative dans l'âme**
 
 ---
 
-## 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur : **[Nom de ton projet actuel]**
+## 🚀 Tu veux me connaitre ?
+- 🔭 Je travaille actuellement sur : **un outils de monitoring**
 - 🌱 J’apprends en ce moment : **Angular 18, Spring Boot, et la cybersécurité**
 - 💬 N’hésite pas à me parler de : **Développement web, mobile, IA, sécurité**
 - 🎯 Objectif 2025 : Contribuer à plus de projets open-source
@@ -39,8 +39,8 @@
 
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanna-joelison)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:ton.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:joannajoelison.pro@gmail.com)
 
 ---
 
-⭐ **Astuce :** N’hésite pas à explorer mes dépôts pour découvrir mes projets !  
+⭐ **Astuce :** N’hésite pas à explorer mes dépôts pour découvrir mes projets !  Certains sont privé mais n'hésite pas à me contacter !
