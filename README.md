@@ -1,7 +1,7 @@
 # Joanna Joelison
 
 Étudiante en dernière année cycle ingénieur — **Cybersécurité & Cloud Computing**  
-🇲🇬 → 🇲🇦 | ISMAGI, Rabat
+🇲🇬 → 🇲🇦
 
 ---
 
@@ -19,7 +19,6 @@ d'incidents, forensics, pentest. C'est cette progression qui me définit le mieu
 
 - 🔭 **Project Lead** chez Neerelab Technology — application web *Flairie* (Angular + Spring Boot)
 - 🔍 Approfondissement continu en **DFIR, SOC et sécurité offensive**
-- 🎯 À la recherche d'un **stage PFE de 6 mois** en cybersécurité
 
 ---
 
