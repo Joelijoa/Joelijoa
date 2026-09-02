@@ -138,8 +138,8 @@ fond une compréhension fine des enjeux techniques (SOC, forensics, pentest).
 ## Statistiques
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-perso-woad.vercel.app/api?username=Joelijoa&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-perso-woad.vercel.app/api/top-langs/?username=Joelijoa&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-perso-woad.vercel.app/api?username=Joelijoa&show_icons=true&theme=radical&hide_border=true&cache_seconds=1" />
+  <img height="165" src="https://github-readme-stats-perso-woad.vercel.app/api/top-langs/?username=Joelijoa&layout=compact&theme=radical&hide_border=true&cache_seconds=1" />
 </p>
 
 ---
