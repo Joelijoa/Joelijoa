@@ -1,7 +1,17 @@
-# Joanna Joelison
+<h1 align="center">Hey, je suis Joanna 👋</h1>
 
-Étudiante en dernière année cycle ingénieur — **Cybersécurité & Cloud Computing**  
-🇲🇬 → 🇲🇦
+<p align="center">
+  <a href="https://joelijoa.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Consultante+S%C3%A9curit%C3%A9+SI+%40+DataProtect;GRC+%7C+Gouvernance+%C2%B7+Risques+%C2%B7+Conformit%C3%A9;Ex-d%C3%A9veloppeuse+%7C+SOC+%7C+DFIR" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">Consultante Sécurité SI — GRC (Gouvernance, Risques & Conformité)</h3>
+<p align="center">chez DataProtect · 🇲🇬 → 🇲🇦</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joelijoa&style=flat-square&color=blue" alt="Compteur de visites" />
+</p>
 
 ---
 
@@ -10,19 +20,30 @@ APIs. Avec le temps, j'ai naturellement glissé vers la sécurité : comprendre 
 systèmes fonctionnent, mais surtout comment ils peuvent être compromis, et comment les
 protéger.
 
-Aujourd'hui je travaille sur des sujets qui mêlent les deux : monitoring, détection
-d'incidents, forensics, pentest. C'est cette progression qui me définit le mieux.
+Cette double lecture technique et sécurité m'a menée vers la GRC : aujourd'hui
+j'accompagne des organisations dans la gestion de leurs risques SI, la mise en conformité
+(ISO 27001, normes sectorielles) et le pilotage de la sécurité, avec toujours en toile de
+fond une compréhension fine des enjeux techniques (SOC, forensics, pentest).
 
 ---
 
 ## Ce sur quoi je travaille
 
-- 🔭 **Project Lead** chez Neerelab Technology — application web *Flairie* (Angular + Spring Boot)
-- 🔍 Approfondissement continu en **DFIR, SOC et sécurité offensive**
+- 🛡️ **Consultante Sécurité SI** chez **DataProtect** — BU GRC (Gouvernance, Risques & Conformité)
+- 📋 Missions d'audit, d'analyse de risques et d'accompagnement à la mise en conformité (ISO 27001, RGPD, cadres réglementaires)
+- 🔍 Maintien d'une expertise technique en DFIR, SOC et sécurité offensive pour des analyses de risque ancrées dans le réel
+- 🌐 Retrouvez tous mes projets sur mon [**portfolio**](https://joelijoa.vercel.app/)
 
 ---
 
 ## Compétences
+
+**Gouvernance, Risques & Conformité**  
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-Conformité-%23003087)
+![Analyse de risques](https://img.shields.io/badge/Analyse%20de%20risques-EBIOS%20RM-%236A0DAD)
+![Audit SSI](https://img.shields.io/badge/Audit-SSI-%23444444)
+![RGPD](https://img.shields.io/badge/RGPD-Protection%20des%20données-%2300838F)
+![PSSI](https://img.shields.io/badge/PSSI-Politique%20de%20sécurité-%23555555)
 
 **Sécurité défensive & SOC**  
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM%2FIDS-%230078D4)
@@ -58,6 +79,7 @@ d'incidents, forensics, pentest. C'est cette progression qui me définit le mieu
 
 | Projet | Détail | Domaine |
 |---|---|---|
+| 📋 **Missions GRC** | Audits SSI, analyses de risques, accompagnement conformité ISO 27001 | GRC · DataProtect |
 | 🛡️ **Monitoring & Firewall** | Déploiement Wazuh + NetXMS, gestion d'alertes et quarantaine | SOC · DevSecOps |
 | 🔍 **Analyse Forensics DFIR** | Investigation mémoire Windows, extraction IoC, mapping MITRE | Volatility2 |
 | 💣 **Pentest EternalBlue** | Exploitation MS17-010, post-exploitation, rapport complet | Offensif |
@@ -65,17 +87,21 @@ d'incidents, forensics, pentest. C'est cette progression qui me définit le mieu
 | 🌐 **Plateforme API** | Documentation, test et administration d'APIs REST | Angular · Spring Boot |
 | 📱 [**Re7 — Recette App**](https://github.com/Joelijoa/recette-app) | App mobile collaborative avec sécurisation Firebase | Java · Android |
 
-> Certains dépôts sont privés. N'hésitez pas à me contacter directement.
+> Certains dépôts sont privés (notamment les livrables de missions). N'hésitez pas à me contacter directement.
 
 ---
 
 ## Statistiques
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Joelijoa&layout=compact&theme=radical)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joelijoa&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joelijoa&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joelijoa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanna-joelison)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:joannajoelison.pro@gmail.com)
