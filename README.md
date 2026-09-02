@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">Consultante Sécurité SI — GRC (Gouvernance, Risques & Conformité)</h3>
+<h3 align="center">Consultante Sécurité SI - GRC (Gouvernance, Risques & Conformité)</h3>
 <p align="center">chez DataProtect · 🇲🇬 → 🇲🇦</p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-Mon parcours a commencé par le développement — applications mobiles, plateformes web,
+Mon parcours a commencé par le développement - applications mobiles, plateformes web,
 APIs. Avec le temps, j'ai naturellement glissé vers la sécurité : comprendre comment les
 systèmes fonctionnent, mais surtout comment ils peuvent être compromis, et comment les
 protéger.
@@ -29,7 +29,7 @@ fond une compréhension fine des enjeux techniques (SOC, forensics, pentest).
 
 ## Ce sur quoi je travaille
 
-- 🛡️ **Consultante Sécurité SI** chez **DataProtect** — BU GRC (Gouvernance, Risques & Conformité)
+- 🛡️ **Consultante Sécurité SI** chez **DataProtect** - BU GRC (Gouvernance, Risques & Conformité)
 - 📋 Missions d'audit, d'analyse de risques et d'accompagnement à la mise en conformité (ISO 27001, RGPD, cadres réglementaires)
 - 🔍 Maintien d'une expertise technique en DFIR, SOC et sécurité offensive pour des analyses de risque ancrées dans le réel
 - 🌐 Retrouvez tous mes projets sur mon [**portfolio**](https://joelijoa.vercel.app/)
